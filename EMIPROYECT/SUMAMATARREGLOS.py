@@ -1,5 +1,4 @@
 import random as rd
-import numpy as np
 
 #area de definicion de funciones propias
 #funcion propia que establece el tamaño de una matriz

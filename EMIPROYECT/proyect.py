@@ -1,7 +1,7 @@
-import random as random
-#THIS WILL CREATE THE FUNCTION
+import random as rd
+#aqui creamos la funcion 
 def UtilizingFunction(containerMeasure): 
-    t = int(random.random()*10)  
+    t = int(rd.random()*10)  
     print(t) 
     containerMeasure = t^3 - (2*(t^2)) - (2*(t)) + 15 
     return containerMeasure
